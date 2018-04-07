@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/images/aquaman-lego.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/images/Batman-lego.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/images/blackpanther-lego.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/images/blackwidow-lego.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/captainamerica-lego.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/hulk-lego.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/images/ironman-lego.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/images/spiderman-lego.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/superman-lego.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./assets/images/theflash-lego.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./assets/images/thor-lego.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./assets/images/wolverine-lego.jpeg",
+      "clicked": false
+    }
+  ]
